@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 20px;
+  color: #42240c;
+}
+
+h1 {
+  font-size: 70px;
+  margin-top: 0;
+  font-family: 'Roboto Mono', monospace;
+  color: #ecce6d;
+}
+
+h2 {
+  font-size: 50px;
+  font-family: 'Permanent Marker', cursive;
+  color: #8D8741;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 30px;
+  font-family: 'Amatic SC', cursive;
+  color: #BC986A;
+  font-weight: bolder;
+}
+
+.top-container {
+  background-color: #e5e4cc;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #e5e4cc;
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #e5e4cc;
+}
+
+.self-taught {
+  text-decoration: underline;
+}
+
+.mid-camel {
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
+
+.soldiers {
+  opacity: 0.5;
+}
+
+.left-camel {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 100px;
+  bottom: 300px;
+}
+
+.right-camel {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  left: 900px;
+  bottom: 300px;
+}
+
+.profile {
+  border-radius: 50%;
+}
+
+.medevac {
+  border-radius: 8px;
+}
+
+.my-image {
+  border-radius: 10px;
+}
+
+p {
+  font-weight: bold;
+}
